@@ -1,0 +1,5 @@
+dist/
+.env*
+.netrc
+node_modules/
+*.log
